@@ -13,7 +13,6 @@
         ],
         "DalamudApiLevel": 6,
         "LoadPriority": 0,
-        "IconUrl": "https://raw.githubusercontent.com/ZhyraPlugins/PartyPlanner/master/PartyPlanner/images/icon.png",
         "Punchline": "See  partyverse.app events ingame",
         "IsHide": "False",
         "IsTestingExclusive": "False",
