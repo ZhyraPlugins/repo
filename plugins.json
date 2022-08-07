@@ -7,6 +7,7 @@
         "Description": "A plugin to see partyverse.app events.",
         "ApplicableVersion": "any",
         "RepoUrl": "https://github.com/ZhyraPlugins/PartyPlanner",
+        "IconUrl": "https://raw.githubusercontent.com/ZhyraPlugins/PartyPlanner/master/PartyPlanner/images/icon.png",
         "Tags": [
           "party"
         ],
