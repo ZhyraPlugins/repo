@@ -13,7 +13,7 @@
         ],
         "DalamudApiLevel": 6,
         "LoadPriority": 0,
-        "Punchline": "See  partyverse.app events ingame",
+        "Punchline": "See partyverse.app events ingame",
         "IsHide": "False",
         "IsTestingExclusive": "False",
         "DownloadLinkInstall": "https://github.com/ZhyraPlugins/PartyPlanner/releases/latest/download/latest.zip",
