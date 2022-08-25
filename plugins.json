@@ -3,7 +3,7 @@
         "Author": "Zhyra",
         "Name": "PartyPlanner",
         "InternalName": "PartyPlanner",
-        "AssemblyVersion": "1.2.1",
+        "AssemblyVersion": "1.3.0",
         "Description": "A plugin to see partyverse.app events.",
         "ApplicableVersion": "any",
         "RepoUrl": "https://github.com/ZhyraPlugins/PartyPlanner",
@@ -11,7 +11,7 @@
         "Tags": [
           "party"
         ],
-        "DalamudApiLevel": 6,
+        "DalamudApiLevel": 7,
         "LoadPriority": 0,
         "Punchline": "See partyverse.app events ingame",
         "IsHide": "False",
