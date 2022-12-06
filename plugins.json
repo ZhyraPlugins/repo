@@ -27,6 +27,8 @@
         "AssemblyVersion":"1.0.0",
         "Description":"Help the community by uploading market data using this plugin!",
         "ApplicableVersion":"any",
+        "IsHide":"False",
+        "IsTestingExclusive":"False",
         "RepoUrl":"https://github.com/ZhyraPlugins/MarketUploader",
         "Tags":[
             "market",
