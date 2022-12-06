@@ -1,23 +1,40 @@
 [
     {
-        "Author": "Zhyra",
-        "Name": "PartyPlanner",
-        "InternalName": "PartyPlanner",
-        "AssemblyVersion": "1.4.1",
-        "Description": "A plugin to see partyverse.app events.",
-        "ApplicableVersion": "any",
-        "RepoUrl": "https://github.com/ZhyraPlugins/PartyPlanner",
-        "IconUrl": "https://raw.githubusercontent.com/ZhyraPlugins/PartyPlanner/master/PartyPlanner/images/icon.png",
-        "Tags": [
-          "party"
+        "Author":"Zhyra",
+        "Name":"PartyPlanner",
+        "InternalName":"PartyPlanner",
+        "AssemblyVersion":"1.4.1",
+        "Description":"A plugin to see partyverse.app events.",
+        "ApplicableVersion":"any",
+        "RepoUrl":"https://github.com/ZhyraPlugins/PartyPlanner",
+        "IconUrl":"https://raw.githubusercontent.com/ZhyraPlugins/PartyPlanner/master/PartyPlanner/images/icon.png",
+        "Tags":[
+            "party"
         ],
-        "DalamudApiLevel": 7,
-        "LoadPriority": 0,
-        "Punchline": "See partyverse.app events ingame",
-        "IsHide": "False",
-        "IsTestingExclusive": "False",
-        "DownloadLinkInstall": "https://github.com/ZhyraPlugins/PartyPlanner/releases/latest/download/latest.zip",
-        "DownloadLinkTesting": "https://github.com/ZhyraPlugins/PartyPlanner/releases/latest/download/latest.zip",
-        "DownloadLinkUpdate": "https://github.com/ZhyraPlugins/PartyPlanner/releases/latest/download/latest.zip"
-      }
+        "DalamudApiLevel":7,
+        "LoadPriority":0,
+        "Punchline":"See partyverse.app events ingame",
+        "IsHide":"False",
+        "IsTestingExclusive":"False",
+        "DownloadLinkInstall":"https://github.com/ZhyraPlugins/PartyPlanner/releases/latest/download/latest.zip",
+        "DownloadLinkTesting":"https://github.com/ZhyraPlugins/PartyPlanner/releases/latest/download/latest.zip",
+        "DownloadLinkUpdate":"https://github.com/ZhyraPlugins/PartyPlanner/releases/latest/download/latest.zip"
+    },
+    {
+        "Author":"Zhyra",
+        "Name":"Market Uploader",
+        "InternalName":"MarketUploader",
+        "AssemblyVersion":"1.0.0",
+        "Description":"Help the community by uploading market data using this plugin!",
+        "ApplicableVersion":"any",
+        "RepoUrl":"https://github.com/ZhyraPlugins/MarketUploader",
+        "Tags":[
+            "market",
+            "uploader"
+        ],
+        "DalamudApiLevel":7,
+        "LoadPriority":0,
+        "IconUrl":"https://raw.githubusercontent.com/ZhyraPlugins/MarketUploader/master/MarketUploader/images/icon.png",
+        "Punchline":"Uploads market data to various aggregators."
+    }
 ]
