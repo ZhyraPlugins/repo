@@ -35,6 +35,9 @@
         "DalamudApiLevel":7,
         "LoadPriority":0,
         "IconUrl":"https://raw.githubusercontent.com/ZhyraPlugins/MarketUploader/master/MarketUploader/images/icon.png",
-        "Punchline":"Uploads market data to various aggregators."
+        "Punchline":"Uploads market data to various aggregators.",
+        "DownloadLinkInstall":"https://github.com/ZhyraPlugins/MarketUploader/releases/latest/download/latest.zip",
+        "DownloadLinkTesting":"https://github.com/ZhyraPlugins/MarketUploader/releases/latest/download/latest.zip",
+        "DownloadLinkUpdate":"https://github.com/ZhyraPlugins/MarketUploader/releases/latest/download/latest.zip"
     }
 ]
