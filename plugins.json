@@ -24,7 +24,7 @@
         "Author":"Zhyra",
         "Name":"Market Uploader",
         "InternalName":"MarketUploader",
-        "AssemblyVersion":"1.0.4",
+        "AssemblyVersion":"1.0.5",
         "Description":"Uploads marketboard data to market.xivhub.org and other configurable aggregators.",
         "ApplicableVersion":"any",
         "IsHide":"False",
