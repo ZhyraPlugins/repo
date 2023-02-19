@@ -3,7 +3,7 @@
         "Author":"Zhyra",
         "Name":"PartyPlanner",
         "InternalName":"PartyPlanner",
-        "AssemblyVersion":"1.5.0",
+        "AssemblyVersion":"1.5.1",
         "Description":"A plugin to see partyverse.app events.",
         "ApplicableVersion":"any",
         "RepoUrl":"https://github.com/ZhyraPlugins/PartyPlanner",
