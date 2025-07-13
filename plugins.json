@@ -1,45 +1,25 @@
 [
     {
-        "Author":"Zhyra",
-        "Name":"PartyPlanner",
-        "InternalName":"PartyPlanner",
-        "AssemblyVersion":"1.5.1",
-        "Description":"A plugin to see partyverse.app events.",
-        "ApplicableVersion":"any",
-        "RepoUrl":"https://github.com/ZhyraPlugins/PartyPlanner",
-        "IconUrl":"https://raw.githubusercontent.com/ZhyraPlugins/PartyPlanner/master/PartyPlanner/images/icon.png",
-        "Tags":[
-            "party"
-        ],
-        "DalamudApiLevel":8,
-        "LoadPriority":0,
-        "Punchline":"See partyverse.app events ingame",
-        "IsHide":"False",
-        "IsTestingExclusive":"False",
-        "DownloadLinkInstall":"https://github.com/ZhyraPlugins/PartyPlanner/releases/latest/download/latest.zip",
-        "DownloadLinkTesting":"https://github.com/ZhyraPlugins/PartyPlanner/releases/latest/download/latest.zip",
-        "DownloadLinkUpdate":"https://github.com/ZhyraPlugins/PartyPlanner/releases/latest/download/latest.zip"
-    },
-    {
-        "Author":"Zhyra",
-        "Name":"Market Uploader",
-        "InternalName":"MarketUploader",
-        "AssemblyVersion":"1.0.5",
-        "Description":"Uploads marketboard data to market.xivhub.org and other configurable aggregators.",
-        "ApplicableVersion":"any",
-        "IsHide":"False",
-        "IsTestingExclusive":"False",
-        "RepoUrl":"https://github.com/ZhyraPlugins/MarketUploader",
-        "Tags":[
-            "market",
-            "uploader"
-        ],
-        "DalamudApiLevel":8,
-        "LoadPriority":0,
-        "IconUrl":"https://raw.githubusercontent.com/ZhyraPlugins/MarketUploader/master/MarketUploader/images/icon.png",
-        "Punchline":"Uploads market data to various aggregators.",
-        "DownloadLinkInstall":"https://github.com/ZhyraPlugins/MarketUploader/releases/latest/download/latest.zip",
-        "DownloadLinkTesting":"https://github.com/ZhyraPlugins/MarketUploader/releases/latest/download/latest.zip",
-        "DownloadLinkUpdate":"https://github.com/ZhyraPlugins/MarketUploader/releases/latest/download/latest.zip"
+      "Author": "Zhyra",
+      "Name": "SimpleTimers",
+      "InternalName": "SimpleTimers",
+      "AssemblyVersion": "1.0.0",
+      "Description": "Create customizable timers for all your needs. /stimers",
+      "ApplicableVersion": "any",
+      "Tags": [
+        "timers",
+        "scheduling",
+        "tasks"
+      ],
+      "DalamudApiLevel": 12,
+      "LoadRequiredState": 0,
+      "LoadSync": false,
+      "CanUnloadAsync": false,
+      "LoadPriority": 0,
+      "Punchline": "Create customizable timers for all your needs.",
+      "AcceptsFeedback": true,
+      "DownloadLinkInstall":"https://github.com/ZhyraPlugins/SimpleTimers/releases/latest/download/latest.zip",
+      "DownloadLinkTesting":"https://github.com/ZhyraPlugins/SimpleTimers/releases/latest/download/latest.zip",
+      "DownloadLinkUpdate":"https://github.com/ZhyraPlugins/SimpleTimers/releases/latest/download/latest.zip"
     }
 ]
