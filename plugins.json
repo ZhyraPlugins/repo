@@ -3,7 +3,7 @@
       "Author": "Zhyra",
       "Name": "SimpleTimers",
       "InternalName": "SimpleTimers",
-      "AssemblyVersion": "1.0.3",
+      "AssemblyVersion": "1.0.4",
       "Description": "Create customizable timers for all your needs. /stimers",
       "ApplicableVersion": "any",
       "Tags": [
@@ -11,7 +11,7 @@
         "scheduling",
         "tasks"
       ],
-      "DalamudApiLevel": 12,
+      "DalamudApiLevel": 13,
       "LoadRequiredState": 0,
       "LoadSync": false,
       "CanUnloadAsync": false,
